@@ -1,0 +1,19 @@
+<div class="container">
+    <footer role="contentinfo">
+        
+<ul>
+    <li><a href="http://localhost:8888/fiveseasons/index.php/about-magento-demo-store?___SID=U">About Us</a></li>
+    <li><a href="http://localhost:8888/fiveseasons/index.php/customer-service?___SID=U">Customer Service</a></li>
+<li class="last privacy"><a href="http://localhost:8888/fiveseasons/index.php/privacy-policy-cookie-restriction-mode?___SID=U">Privacy Policy</a></li>
+</ul><ul class="links">
+                        <li class="first" ><a href="http://localhost:8888/fiveseasons/index.php/catalog/seo_sitemap/category/?___SID=U" title="Site Map" >Site Map</a></li>
+                                <li ><a href="http://localhost:8888/fiveseasons/index.php/catalogsearch/term/popular/?___SID=U" title="Search Terms" >Search Terms</a></li>
+                                <li ><a href="http://localhost:8888/fiveseasons/index.php/catalogsearch/advanced/?___SID=U" title="Advanced Search" >Advanced Search</a></li>
+                                <li ><a href="http://localhost:8888/fiveseasons/index.php/sales/guest/form/?___SID=U" title="Orders and Returns" >Orders and Returns</a></li>
+                                <li class=" last" ><a href="http://localhost:8888/fiveseasons/index.php/contacts/?___SID=U" title="Contact Us" >Contact Us</a></li>
+            </ul>
+        <p class="bugs">
+            Magento Boilerplate - <a href="http://www.webcomm.com.au/" target="_blank" title="eCommerce Websites Australia"><strong>Another Webcomm Product</strong></a> (Magento ver. 1.9.1.0)        </p>
+        <address>&copy; 2014 Magento Demo Store. All Rights Reserved.</address>
+    </footer>
+</div>
